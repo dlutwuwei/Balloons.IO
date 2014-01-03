@@ -4,17 +4,17 @@
   "version": "0.0.1",
   "dependencies": {
     "express": "3.3.4",
-    "connect": "~2.8.4",
+    "connect": "~2.8.8",
     "debug": "~0.7.2",
-    "cookie": "0.0.x",
+    "cookie": "0.1.0",
     "jade": "~0.33.0",
     "socket.io": "~0.9.16",
-    "redis": "0.7.2",
+    "redis": "0.10.0",
     "connect-redis": "1.4.x",
     "passport": "~0.1.17",
     "passport-facebook": "~0.1.5",
     "passport-twitter": "~0.1.5",
-    "component-type": "component/type"
+    "type-of": "2.0.0"
   },
   "engines": {
     "node": ">= 0.8.0",

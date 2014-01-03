@@ -90,7 +90,7 @@ function Sockets (app, server) {
             });
           }
         });
-      }
+      } 
     });
 
     socket.on('my msg', function(data) {

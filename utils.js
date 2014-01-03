@@ -1,5 +1,5 @@
 var crypto = require('crypto')
-  , type = require('component-type');
+  , type = require('type-of');
 
 /*
  * Restrict paths
